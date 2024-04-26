@@ -1,10 +1,11 @@
-import Dashbaord from "./pages/Dashboard"
+import AllRoutes from "./Routes/AllRoutes"
+
 
 
 const App = () => {
   return (
     <>
-      <Dashbaord/>
+    <AllRoutes/>
     </>
   )
 }
